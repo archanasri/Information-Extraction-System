@@ -2,7 +2,7 @@
 
 This IE system processes articles related to attacks and finds out the type of attack (attack, kidnapping, robbery, arson, bombing), weapons used, perpetrators, victims and target.
 
-The 'all_text.txt' contains all the articles and 'all_answers.txt' contains the right answer.
+The 'all_text.txt' contains all the articles and 'all_answer.txt' contains the right answer.
 
 To run the program, execute python infoextract.py <textfile>
   
